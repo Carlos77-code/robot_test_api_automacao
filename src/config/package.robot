@@ -3,16 +3,19 @@ Documentation            Aqui fica o Gerenciador de dependencia da automação
 
 
 ##        Libraries        ##
-Library                  SeleniumLibrary
-
+Library                  RequestsLibrary
+Library                  Collections
+Library                  Builtin
 
 
 ##        Keywords        ##
-Resource                  ../auto/keywords/kws_test_api.robot
+Resource                  ../auto/keywords/kws_GET_Books.robot
+Resource                  ../auto/keywords//kws_GET_Books_Id.robot
 
 
-##        Pages        ##
-Resource                  ../auto/variables/var_test_api.robot
+##        Variables        ##
+Resource                  ../auto/variables/var_GET_Books.robot
+Resource                  ../auto//variables//var_GET_Books_Id.robot
 
 
 ##        hooks        ##

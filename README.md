@@ -1,9 +1,10 @@
 ##  Este Teste visa realizar teste de API e automatizar estes Testes.
+##  Link da FakeAPI https://fakerestapi.azurewebsites.net/index.html
 
 
 ## Aqui ficara a estrutura de pastas detalhadamente ##
 
-Pasta raís
+<!-- Pasta raís
 
     src (pasta pai)
             auto (pasta filha)
@@ -34,4 +35,4 @@ Pasta raís
             test.robot (arquivo)
                         Resource                     ../../src/config/package.robot
         
-        logs
+        logs -->
