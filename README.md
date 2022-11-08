@@ -4,7 +4,7 @@
 
 ## Aqui ficara a estrutura de pastas detalhadamente ##
 
-<!-- Pasta raís
+Pasta raís
 
     src (pasta pai)
             auto (pasta filha)
@@ -35,4 +35,4 @@
             test.robot (arquivo)
                         Resource                     ../../src/config/package.robot
         
-        logs -->
+        logs
